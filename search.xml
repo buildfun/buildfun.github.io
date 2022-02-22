@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>51build站点介绍</title>
+    <url>/2022/02/15/51build%E7%AB%99%E7%82%B9%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<p>欢迎来到<a href="https://51build.xyz/">51build.xyz</a>! 51build 意为我要创造，xyz 则是三维空间中的 x，y，z 轴，象征无限的延展性</p>
+<h2 id="为什么会有这个站点"><a href="#为什么会有这个站点" class="headerlink" title="为什么会有这个站点"></a>为什么会有这个站点</h2><p>且看下文</p>
+<h3 id="1-为什么要写博客"><a href="#1-为什么要写博客" class="headerlink" title="1.为什么要写博客"></a>1.为什么要写博客</h3><p><strong>Darren Rowse 在他的 Blog 上，讲到了 7 个理由，我觉得说得很好。</strong></p>
+<span id="more"></span>
+
+<p><strong>1. 学会写作 Blog 的技巧（teach you the skills of blogging）</strong></p>
+<hr>
+<p>没有人天生会写 Blog，我刚开始的时候也不知道该怎么写。但是，经过不断的尝试，现在我知道怎么可以写出受欢迎的文章。</p>
+<p><strong>2. 熟悉 Blog 工具（familiarize you with the tools of blogging）</strong></p>
+<hr>
+<p>写作 Blog，可以选择自己搭建平台，也可以选择网上的免费 Blog 提供商。我曾经试用过不少<a href="https://www.ruanyifeng.com/blog/2004/01/blog.html">Blog 软件</a>，最后才选择了现在的 Typora，这本身也是一个学习过程。</p>
+<p><strong>3. 便于更好地安排时间（help you work out how much time you have）</strong></p>
+<hr>
+<p>写作 Blog 花费的时间，要比大家想象的多，甚至也比我自己想象的多。但是，另一方面，每天我们又有很多时间被无谓地浪费了。坚持写作 Blog 的过程，也是进行更好的时间安排的过程。</p>
+<p><strong>4. 便于你了解自己是否可以长期做一件喜欢的事情（help you work out if you can sustain blogging for the long term）</strong></p>
+<hr>
+<p>很多人都有自己的爱好，但是只有当你享受到这种爱好时，你才会长期坚持下去。写作 Blog 可以帮助你体验到这种感觉。</p>
+<p><strong>5. 便于体验 Blog 文化（give you a taste of blogging ‘culture’）</strong></p>
+<hr>
+<p>Blog 的世界有一种无形的礼仪、风格和用语。熟悉它们，会使你更好地表达自己和理解他人。</p>
+<p><strong>6. 便于你形成和了解自我（help you define a niche）</strong></p>
+<hr>
+<p>长期写作 Blog 最大的好处之一就是，写着写着，你的自我会变得越来越清晰。你最终会明白自己是一个什么样的人，以及自己热爱的又是什么东西。</p>
+<p><strong>7. 帮助你找到读者（help you find a readership）</strong></p>
+<hr>
+<p>与他人交流是生命最大的乐趣之一。写作 Blog 可以帮助我们更好地做到这一点。</p>
+<blockquote>
+<p><strong>如果你想要清晰地思考，就必须远离人群。但是走得越远，你的处境就会越困难，收到的阻力也会越大。因为你没有迎合社会习俗，而是一步步地与它背道而驰。如果自己就是潮水的一部分 ，怎么能看见潮流的方向呢？你只能永远保持质疑，问自己，什么话是我不能说的？为什么？——Paul Graham《不能说的话》</strong></p>
+</blockquote>
+]]></content>
+      <tags>
+        <tag>51build</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Ajax</title>
+    <url>/2022/02/15/Ajax%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h3 id="一、Ajax-是什么"><a href="#一、Ajax-是什么" class="headerlink" title="一、Ajax 是什么 ?"></a>一、Ajax 是什么 ?</h3><p>Ajax 全称 Asynchronous JavaScript and XML（异步的<a href="https://zh.wikipedia.org/wiki/JavaScript">JavaScript</a>与<a href="https://zh.wikipedia.org/wiki/XML">XML</a>技术），指的是一套综合了多项技术的<a href="https://zh.wikipedia.org/wiki/%E7%80%8F%E8%A6%BD%E5%99%A8">浏览器</a>端<a href="https://zh.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81">网页</a>开发技术。</p>
+<h3 id="二、Ajax-优点"><a href="#二、Ajax-优点" class="headerlink" title="二、Ajax 优点"></a>二、Ajax 优点</h3><h4 id="1-提高了性能和速度"><a href="#1-提高了性能和速度" class="headerlink" title="1. 提高了性能和速度"></a>1. 提高了性能和速度</h4><pre><code>不用刷新页面就实时加载数据,减少了客户端和服务端的流量传输，减少了双方响应的时间，能够更优的使用服务器资源
+</code></pre>
+<h4 id="2-交互性能好"><a href="#2-交互性能好" class="headerlink" title="2. 交互性能好"></a>2. 交互性能好</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">使用ajax，可以开发更快，更具交互性的Web应用程序。</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h4 id="3-异步调用"><a href="#3-异步调用" class="headerlink" title="3. 异步调用"></a>3. 异步调用</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">AJAX对Web服务器进行异步调用。这意味着客户端浏览器在开始渲染之前避免等待所有数据到达。</span><br></pre></td></tr></table></figure>
+
+<h4 id="4-使用-XMLHttpRequest"><a href="#4-使用-XMLHttpRequest" class="headerlink" title="4.使用 XMLHttpRequest"></a>4.使用 XMLHttpRequest</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">XMLHttpRequest在Ajax Web开发技术中起着重要作用。XMLHttpRequest是由Microsoft设计的特殊JavaScript对象。XMLHttpRequest对象调用作为异步HTTP请求到服务器以传输数据。它用于向非Ajax页面发出请求。</span><br></pre></td></tr></table></figure>
+
+<h3 id="三、Ajax-缺点"><a href="#三、Ajax-缺点" class="headerlink" title="三、Ajax 缺点"></a>三、Ajax 缺点</h3><h4 id="1-兼容性问题"><a href="#1-兼容性问题" class="headerlink" title="1. 兼容性问题"></a>1. 兼容性问题</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Ajax技术大量使用了JavaScript和ajax引擎，对移动端的支持不太好。在开发时，我们需要考虑对浏览器的兼容性</span><br></pre></td></tr></table></figure>
+
+<h4 id="2-维护更难"><a href="#2-维护更难" class="headerlink" title="2. 维护更难"></a>2. 维护更难</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Ajax的使用无疑增大了代码的开发量。如果需要增加新的功能，那就要增加新的Ajax代码，使后期的维护工作更难</span><br></pre></td></tr></table></figure>
+
+<h4 id="3-不安全性"><a href="#3-不安全性" class="headerlink" title="3. 不安全性"></a>3. 不安全性</h4><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line">Ajax暴露和服务器交互的细节</span><br></pre></td></tr></table></figure>
+
+<h3 id="四、Ajax-的应用"><a href="#四、Ajax-的应用" class="headerlink" title="四、Ajax 的应用"></a>四、Ajax 的应用</h3><p>** 1.运用 XHTML+CSS 来表达信息**<br>** 2.运用 JavaScript 操作 DOM（Document Object Model）来执行动态效果**<br>** 3.运用 XML 和 XSLT 操作资料**<br>** 4.运用 XMLHttpRequest 或新的 Fetch API 与网页服务器进行异步资料交换**</p>
+]]></content>
+      <tags>
+        <tag>Ajax</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Hello World</title>
+    <url>/2022/02/21/hello-world/</url>
+    <content><![CDATA[<p>Welcome to <a href="https://51build.xyz/">51build</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure>
+
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure>
+
+<span id="more"></span>
+
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure>
+
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure>
+]]></content>
+      <tags>
+        <tag>前端</tag>
+      </tags>
+  </entry>
+</search>
