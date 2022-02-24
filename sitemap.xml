@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://51build.xyz/categories/index.html</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/tags/index.html</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/about/index.html</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/2022/02/23/hello-world/</loc>
+    
+    <lastmod>2022-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/2022/02/15/Ajax%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2022-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/2022/02/15/51build%E7%AB%99%E7%82%B9%E4%BB%8B%E7%BB%8D/</loc>
+    
+    <lastmod>2022-02-23</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+
+  <url>
+    <loc>https://51build.xyz/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  
+  <url>
+    <loc>https://51build.xyz/tags/51build/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/tags/Ajax/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://51build.xyz/tags/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+
+  
+  <url>
+    <loc>https://51build.xyz/categories/%E5%89%8D%E7%AB%AF/</loc>
+    <lastmod>2022-02-24</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+</urlset>

@@ -99,11 +99,11 @@ function loadWidget(config) {
         Live2D.captureName = "photo.png";
         Live2D.captureFrame = true;
       });
-    document
-      .querySelector("#waifu-tool .fa-info-circle")
-      .addEventListener("click", () => {
+    document.querySelector("#waifu-tool .fa-info-circle").style.display =
+      "none";
+    /*   .addEventListener("click", () => {
         open("https://github.com/stevenjoezhang/live2d-widget");
-      });
+      }); */
     document
       .querySelector("#waifu-tool .fa-times")
       .addEventListener("click", () => {
