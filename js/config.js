@@ -1,8 +1,15 @@
 if (!window.NexT) window.NexT = {};
 
 (function() {
-  const className = 'next-config';
+document.addEventListener("DOMContentLoaded",function(){
+if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
+ var body = document.querySelector("body");
+body.style.background="url(/images/bci2.jpg) center center / cover fixed no-repeat";
+}
+})
 
+
+  const className = 'next-config';
   const staticConfig = {};
   let variableConfig = {};
 
