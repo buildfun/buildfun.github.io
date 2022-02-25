@@ -4,6 +4,8 @@ if (!window.NexT) window.NexT = {};
 document.addEventListener("DOMContentLoaded",function(){
 if (/Android|webOS|iPhone|iPod|BlackBerry/i.test(navigator.userAgent)) {
  var body = document.querySelector("body");
+var siteSubtitle = document.querySelector(".site-subtitle");
+siteSubtitle.style.display="none";
 body.style.background="url(/images/bci2.jpg) center center / cover fixed no-repeat";
 }
 })
