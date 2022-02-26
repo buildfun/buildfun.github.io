@@ -67,8 +67,46 @@
 ** 3.运用 XML 和 XSLT 操作资料**<br />
 ** 4.运用 XMLHttpRequest 或新的 Fetch API 与网页服务器进行异步资料交换**</p>
 ]]></content>
+      <categories>
+        <category>Ajax</category>
+      </categories>
       <tags>
         <tag>Ajax</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>ES6-ES11学习(持续更新···)</title>
+    <url>/2022/02/26/ES6-ES11/</url>
+    <content><![CDATA[<img src = 'https://s3.bmp.ovh/imgs/2022/02/ad78d114cb460ade.png' style="width:100%" />
+<h2 id="一-es是什么"><a class="markdownIt-Anchor" href="#一-es是什么"></a> 一、ES是什么 ？</h2>
+<blockquote>
+<p>ES全称<strong>ECMAScript</strong>，是由ECMA国际通过ECMA-262标准化的一种脚本设计语言，而我们平时编写的<strong>JavaScript</strong>文件就是EcmaScript的一种实现，所以ES新特性指的就是JavaScript的新特性</p>
+</blockquote>
+<span id="more"></span>
+<h2 id="二-为什么我们要去学习es6"><a class="markdownIt-Anchor" href="#二-为什么我们要去学习es6"></a> 二、为什么我们要去学习ES6 ?</h2>
+<img src ="https://s3.bmp.ovh/imgs/2022/02/6b35f67eb5c5b145.gif" style="width:100%" />
+<blockquote>
+<ol>
+<li>ES6版本的变化最多，具有里程碑的意义</li>
+<li>ES6加入了许多新的特性，编程语法的实现更加高效简单</li>
+<li>前端开发职位需求，就业必备技能</li>
+</ol>
+</blockquote>
+<h2 id="三-学习es6新特性前我们需要准备什么"><a class="markdownIt-Anchor" href="#三-学习es6新特性前我们需要准备什么"></a> 三、学习ES6新特性前我们需要准备什么 ?</h2>
+<img src ="https://s3.bmp.ovh/imgs/2022/02/6047293614fb8b24.jpg" style="width:100%" />
+<blockquote>
+<ol>
+<li>JavaScript 的基本语法</li>
+<li><a href="https://www.runoob.com/ajax/ajax-tutorial.html">Ajax</a>和<a href="https://www.runoob.com/nodejs/nodejs-tutorial.html">NodeJS</a>。</li>
+</ol>
+</blockquote>
+]]></content>
+      <categories>
+        <category>ES6-ES11</category>
+      </categories>
+      <tags>
+        <tag>ES6</tag>
+        <tag>JavaScript</tag>
       </tags>
   </entry>
 </search>
